@@ -1,1 +1,1 @@
-Esse projeto foi o meu primeiro contato com Spring Boot. Com a ajuda do professor Nélio Alves, desenvolvi um CRUD em uma API REST com Java e Spring Boot com as dependências Java Web e JPA (para possibilitar o mapeamento de objetos Java em um banco de dados).
+Esse projeto foi o meu primeiro contato com Spring Boot. Com a ajuda do professor Nélio Alves, desenvolvi um CRUD em uma API RESTful com Java e Spring Boot com as dependências Java Web e JPA (para possibilitar o mapeamento de objetos Java em um banco de dados).
